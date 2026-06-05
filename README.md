@@ -1,55 +1,15 @@
-# Michelle Sanchez
 
-Google Workspace Automation & API Integration Specialist
-
-## Skills
-- Google Apps Script
-- API Integration
-- Webhooks
-- Google Sheets Automation
-- Looker Studio
-- YouTube Analytics API
-
-## Featured Projects
-- Automated Quotation System
-- YouTube Analytics Dashboard
-- Facebook and Google Ads Analytics
-- Upcomming and Delayed Payments Dashboard
-- Workflow Automation Systems
 # Hi, I'm Michelle 👋
 
 ### Google Workspace Automation & API Integration Specialist
 
 I build automated business workflows using **Google Apps Script**, **REST APIs**, **webhooks**, and **Google Workspace tools** — replacing manual processes with reliable, scalable systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![OnlineJobs.ph](https://img.shields.io/badge/OnlineJobs.ph-View%20Profile-FF6B35?style=flat)](https://onlinejobs.ph/jobseekers/yourprofile)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-00C47F?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
-## What I Do
-
-```
-Google Forms / Airtable  →  Apps Script  →  Google Sheets  →  Looker Studio
-     Facebook Ads        →  Token Auth   →  Data Connector →  Live Dashboard
-        Raw Data         →  Apps Script  →  Clean Tracker  →  Management Report
-```
-
-I specialize in connecting tools that don't talk to each other — and making the whole workflow run automatically.
-
----
-
-## 🔧 Tech Stack
-
-| Category | Tools |
-|---|---|
-| **Automation** | Google Apps Script, Google Forms, Gmail, Google Docs, Google Drive |
-| **Data & Reporting** | Google Sheets, Looker Studio, Data Studio Connectors |
-| **APIs & Integration** | YouTube Analytics API, Facebook Ads API, Google Ads API, REST APIs, JSON, Webhooks |
-| **Third-party** | Airtable, Zapier, Slack, ChatGPT API |
-
----
 
 ## 📌 Featured Projects
 
@@ -73,7 +33,7 @@ I specialize in connecting tools that don't talk to each other — and making th
 
 **Screenshots**
 
-| CRM Tracker (Sheets) | Auto-generated PDF Output |
+| CRM Tracker & Dashboard (Sheets) | Auto-generated PDF Output |
 |---|---|
 | ![Sheets Tracker](images/quotation-crm-sheets.png) | ![PDF Output](images/quotation-crm-pdf.png) |
 
