@@ -62,7 +62,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Screenshots**
 
-| Looker Studio Dashboard | Connector Setup |
+| Looker Studio Dashboard |
 |---|---|
 |<img width="1366" height="920" alt="6" src="https://github.com/user-attachments/assets/65dbe30f-32ea-4be4-957a-9f55536f723e" />
 
@@ -81,19 +81,20 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Workflow**
 
-![Workflow Diagram](images/payments-tracker-workflow.png)
+<img width="701" height="288" alt="Screenshot 2026-06-05 181529" src="https://github.com/user-attachments/assets/f3134eb7-8cb5-4074-b276-a5319836ccc4" />
 
 **Key features:**
 - Multi-source data merge using Apps Script
-- Automated cleaning: remove duplicates, fix formatting inconsistencies
+- Automated cleaning: remove duplicates, fix formatting
 - Upcoming vs. delayed payment flags with date logic
 - Looker Studio report with payment status, amounts, and timelines
 
 **Screenshots**
 
-| Clean Tracker (Sheets) | Looker Studio Report |
+| Looker Studio Report |
 |---|---|
-| ![Tracker](images/payments-tracker-sheets.png) | ![Report](images/payments-tracker-looker.png) |
+<img width="1366" height="831" alt="4" src="https://github.com/user-attachments/assets/2e4f9ef6-09f3-4490-9cdb-22bbe63301c9" />
+
 
 **Stack:** `Google Apps Script` `Google Sheets` `Looker Studio`
 
@@ -108,11 +109,13 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Workflow**
 
-![Workflow](images/youtube-analytics-workflow.png)
+<img width="695" height="280" alt="Screenshot 2026-06-05 181706" src="https://github.com/user-attachments/assets/865afe3c-22ba-4a90-8a53-c5bbeef1a12b" />
 
-**Screenshot**
 
-![Dashboard](images/youtube-analytics-dashboard.png)
+**Dashboard Screenshot**
+
+<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/cfbce0c0-d918-44aa-adfa-a2b20b824374" />
+
 
 **Stack:** `YouTube Analytics API` `Apps Script` `UrlFetchApp` `Google Sheets` `Looker Studio`
 
@@ -129,11 +132,12 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Workflow**
 
-![Workflow](images/eod-pipeline-workflow.png)
+<img width="695" height="309" alt="Screenshot 2026-06-05 181511" src="https://github.com/user-attachments/assets/f92b02cc-fb98-43a5-a1a4-871134b88d65" />
+
 
 **Screenshot**
 
-![Report](images/eod-pipeline-report.png)
+![Report]<img width="1366" height="831" alt="4" src="https://github.com/user-attachments/assets/f53952b7-07e7-4a59-acb0-96fcd89e2d06" />
 
 **Stack:** `Airtable` `Zapier` `Google Sheets` `Looker Studio`
 
@@ -148,11 +152,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Workflow**
 
-![Workflow](images/slack-webhook-workflow.png)
-
-**Screenshot**
-
-![Slack Notification](images/slack-webhook-output.png)
+<img width="697" height="267" alt="Screenshot 2026-06-05 181556" src="https://github.com/user-attachments/assets/2dcf9943-c06b-4aba-80a0-c86fdc0be2cb" />
 
 **Stack:** `Google Apps Script` `UrlFetchApp` `Slack Incoming Webhooks` `REST API` `JSON`
 
@@ -165,9 +165,6 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **What it does:** Integrates the ChatGPT API with Google Apps Script to generate context-aware email drafts automatically. The script reads data from Sheets, builds a prompt, calls the OpenAI API, and creates a Gmail draft — ready for human review before sending.
 
-**Workflow**
-
-![Workflow](images/chatgpt-email-workflow.png)
 
 **Stack:** `ChatGPT API` `Google Apps Script` `Gmail` `OpenAI API`
 
