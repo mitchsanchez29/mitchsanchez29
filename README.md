@@ -1,5 +1,4 @@
-<img width="692" height="258" alt="Screenshot 2026-06-05 181724" src="https://github.com/user-attachments/assets/6e47ecc1-7553-4847-84cb-87bd3fb6ab26" />
-<img width="692" height="258" alt="Screenshot 2026-06-05 181724" src="https://github.com/user-attachments/assets/dbf8fd19-03cc-4518-bfcd-86ff5d35d22e" />
+
 
 # Hi, I'm Michelle 👋
 
@@ -25,7 +24,8 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Workflow**
 
-![Workflow Diagram](images/quotation-crm-workflow.png)
+![Workflow Diagram](<img width="692" height="258" alt="Screenshot 2026-06-05 181724" src="https://github.com/user-attachments/assets/6e47ecc1-7553-4847-84cb-87bd3fb6ab26" />)
+
 
 **Key features:**
 - Auto-generated sequential quote numbers
@@ -37,7 +37,8 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 | CRM Tracker & Dashboard (Sheets) | Auto-generated PDF Output |
 |---|---|
-| ![Sheets Tracker](images/quotation-crm-sheets.png) | ![PDF Output](images/quotation-crm-pdf.png) |
+| ![Sheets Tracker](<img width="1366" height="856" alt="2" src="https://github.com/user-attachments/assets/fab10ace-c659-4624-a181-9cef2f09713a" />) | ![PDF Output](<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" />) |
+
 
 **Stack:** `Google Forms` `Apps Script` `Google Sheets` `Google Docs` `Drive` `Gmail`
 
