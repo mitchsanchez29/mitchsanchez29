@@ -1,3 +1,5 @@
+<img width="692" height="258" alt="Screenshot 2026-06-05 181724" src="https://github.com/user-attachments/assets/6e47ecc1-7553-4847-84cb-87bd3fb6ab26" />
+<img width="692" height="258" alt="Screenshot 2026-06-05 181724" src="https://github.com/user-attachments/assets/dbf8fd19-03cc-4518-bfcd-86ff5d35d22e" />
 
 # Hi, I'm Michelle 👋
 
