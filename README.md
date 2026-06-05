@@ -64,7 +64,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 | Looker Studio Dashboard |
 |---|---|
-|<img width="1366" height="920" alt="6" src="https://github.com/user-attachments/assets/65dbe30f-32ea-4be4-957a-9f55536f723e" />
+<img width="1366" height="920" alt="6" src="https://github.com/user-attachments/assets/65dbe30f-32ea-4be4-957a-9f55536f723e" />
 
 
 **Stack:** `Facebook Ads API` `Google Ads` `Google Analytics` `Looker Studio` `Data Connectors` `Google Sheets`
@@ -93,8 +93,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 | Looker Studio Report |
 |---|---|
-<img width="1366" height="831" alt="4" src="https://github.com/user-attachments/assets/2e4f9ef6-09f3-4490-9cdb-22bbe63301c9" />
-
+<img width="1366" height="831" alt="4" src="https://github.com/user-attachments/assets/df24c832-5bf9-4c93-9b2a-ba067e51aedb" />
 
 **Stack:** `Google Apps Script` `Google Sheets` `Looker Studio`
 
