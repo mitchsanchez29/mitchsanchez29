@@ -53,6 +53,8 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 **Workflow Diagram**
 
 <img width="703" height="321" alt="Screenshot 2026-06-05 181628" src="https://github.com/user-attachments/assets/f3de0ce6-4dc6-4a78-beae-cc1b5ca2865d" />
+<img width="709" height="303" alt="Screenshot 2026-06-05 181646" src="https://github.com/user-attachments/assets/a435a448-4d78-4dad-9722-13d082222a22" />
+
 
 **Key features:**
 - Facebook Ads connected via OAuth token + partner connector
@@ -79,7 +81,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **What I built:** An Apps Script solution that pulls from multiple data sources, deduplicates records, standardizes formats, flags upcoming and overdue payments, and loads everything into a clean tracker. A Looker Studio report gives management real-time payment status without touching a spreadsheet.
 
-**Workflow**
+**Workflow Design**
 
 <img width="701" height="288" alt="Screenshot 2026-06-05 181529" src="https://github.com/user-attachments/assets/f3134eb7-8cb5-4074-b276-a5319836ccc4" />
 
