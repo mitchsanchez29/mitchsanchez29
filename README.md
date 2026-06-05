@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Michelle 👋
 
 ### Google Workspace Automation & API Integration Specialist
@@ -22,9 +20,9 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **What I built:** A fully automated pipeline triggered by a Google Form submission. Apps Script generates a unique quote number, populates a Google Docs template, converts it to PDF, stores it in Drive, and sends it to the client via Gmail — all without manual input.
 
-**Workflow**
+**Workflow Diagram**
 
-![Workflow Diagram]<img width="692" height="258" alt="Screenshot 2026-06-05 181724" src="https://github.com/user-attachments/assets/6e47ecc1-7553-4847-84cb-87bd3fb6ab26" />
+<img width="692" height="258" alt="Screenshot 2026-06-05 181724" src="https://github.com/user-attachments/assets/6e47ecc1-7553-4847-84cb-87bd3fb6ab26" />
 
 
 **Key features:**
@@ -37,7 +35,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 | CRM Tracker & Dashboard (Sheets) | Auto-generated PDF Output |
 |---|---|
-| ![Sheets Tracker]<img width="1366" height="856" alt="2" src="https://github.com/user-attachments/assets/fab10ace-c659-4624-a181-9cef2f09713a" /> | ![PDF Output]<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" /> |
+<img width="1366" height="856" alt="2" src="https://github.com/user-attachments/assets/fab10ace-c659-4624-a181-9cef2f09713a" /> | <img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" /> |
 
 
 **Stack:** `Google Forms` `Apps Script` `Google Sheets` `Google Docs` `Drive` `Gmail`
@@ -52,9 +50,9 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **What I built:** A consolidated Looker Studio dashboard pulling from both platforms using native connectors (Google Ads) and Facebook token-based authentication (Facebook Ads). The dashboard auto-refreshes and gives the team a single source of truth for campaign performance.
 
-**Workflow**
+**Workflow Diagram**
 
-![Workflow Diagram](images/ads-dashboard-workflow.png)
+<img width="703" height="321" alt="Screenshot 2026-06-05 181628" src="https://github.com/user-attachments/assets/f3de0ce6-4dc6-4a78-beae-cc1b5ca2865d" />
 
 **Key features:**
 - Facebook Ads connected via OAuth token + partner connector
@@ -66,9 +64,10 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 | Looker Studio Dashboard | Connector Setup |
 |---|---|
-| ![Dashboard](images/ads-dashboard-looker.png) | ![Connector](images/ads-dashboard-connector.png) |
+|<img width="1366" height="920" alt="6" src="https://github.com/user-attachments/assets/65dbe30f-32ea-4be4-957a-9f55536f723e" />
 
-**Stack:** `Facebook Ads API` `Google Ads` `Google Analytics` `Looker Studio` `Data Connectors`
+
+**Stack:** `Facebook Ads API` `Google Ads` `Google Analytics` `Looker Studio` `Data Connectors` `Google Sheets`
 
 ---
 
