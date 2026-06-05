@@ -37,7 +37,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 | CRM Tracker & Dashboard (Sheets) | Auto-generated PDF Output |
 |---|---|
-| ![Sheets Tracker](<img width="1366" height="856" alt="2" src="https://github.com/user-attachments/assets/fab10ace-c659-4624-a181-9cef2f09713a" />) | ![PDF Output](<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" />) |
+| ![Sheets Tracker]<img width="1366" height="856" alt="2" src="https://github.com/user-attachments/assets/fab10ace-c659-4624-a181-9cef2f09713a" /> | ![PDF Output](<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" />) |
 
 
 **Stack:** `Google Forms` `Apps Script` `Google Sheets` `Google Docs` `Drive` `Gmail`
