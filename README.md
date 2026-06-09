@@ -168,7 +168,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Financial Dashboard - Google sheets Screenshot**
 
-<img width="597" height="527" alt="Screenshot 2026-06-09 022906" src="https://github.com/user-attachments/assets/2ca587ef-4035-4071-8596-2afd19bfab63" />
+<img width="901" height="693" alt="Screenshot 2026-06-09 042152" src="https://github.com/user-attachments/assets/91d524e6-529e-4f5c-91d0-b60846a57a0f" />
 
 **Stack:** `Google Sheets` `Financial Reporting` `Data Management` `Dashboard` `Data Visualization`
 
