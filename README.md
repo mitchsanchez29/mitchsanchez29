@@ -43,6 +43,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 <img width="800" alt="Auto-generated Response and Drive Storage" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" />
 
 **Stack:** `Google Forms` `Apps Script` `Google Sheets` `Google Docs` `Drive` `Gmail` `PDF`
+
 ### 2. Facebook Ads Performance Dashboard
 
 > *Connected Facebook Ads data into a live Looker Studio dashboard for real-time campaign visibility.*
@@ -96,7 +97,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 | <img width="527" height="587" alt="Screenshot 2026-06-09 154351" src="https://github.com/user-attachments/assets/60da1bf2-7ea7-4235-a6d8-ff5e79d98ffe" /> | <img width="526" height="592" alt="Screenshot 2026-06-09 154425" src="https://github.com/user-attachments/assets/a9cc0be9-a82c-44bf-81ad-52e3cce59f26" /> | <img width="496" height="691" alt="Screenshot 2026-06-09 154455" src="https://github.com/user-attachments/assets/d2e7419a-6a73-4d81-97f4-518ae45c145f" /> |
 
 **Stack:** `Google Ads` `Google Analytics` `Looker Studio` `Native Connector` `PDF Report`
----
+
 
 ### 3. Upcoming & Delayed Payments Tracker
 
@@ -138,6 +139,41 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 ## 📂 More Projects
 
 <details>
+<summary><strong>Payment Performance Dashboard</strong> · Looker Studio</summary>
+
+**Goal:** Provide clear visibility of payment performance and status.
+
+**What I built:** A Looker Studio dashboard using a Google Sheets payment tracker as the data source. Visualizes key payment metrics — total payments, collected amounts, pending balances, and payment status — in a centralized, real-time view.
+
+**Impact:** Improved reporting visibility and made it easier to monitor payment performance without manually checking spreadsheets.
+
+**Dashboard Screenshot**
+
+![Financial Dashboard - Looker]<img width="597" height="527" alt="Screenshot 2026-06-09 022906" src="https://github.com/user-attachments/assets/2ca587ef-4035-4071-8596-2afd19bfab63" />
+
+**Stack:** `Looker Studio` `Google Sheets` `Data Visualization` `Financial Reporting`
+
+</details>
+
+---
+
+<details>
+<summary><strong>Financial Dashboard & Profit/Loss Reporting</strong> · Google Sheets</summary>
+
+**Goal:** Build a clear view of business financial performance using payment and expense data.
+
+**What I built:** A Google Sheets dashboard that consolidates income, expenses, net cash collected, and profit/loss — with monthly and quarterly performance tracking, automated calculations, and structured reporting.
+
+**Impact:** Improved financial visibility and made it easier to track business performance, profitability, and cash flow in one centralized dashboard.
+
+**Screenshot**
+
+![Financial Dashboard - Google sheets]<img width="597" height="527" alt="Screenshot 2026-06-09 022906" src="https://github.com/user-attachments/assets/2ca587ef-4035-4071-8596-2afd19bfab63" />
+
+**Stack:** `Google Sheets` `Financial Reporting` `Data Management` `Dashboard` `Data Visualization`
+
+</details>
+<details>
 <summary><strong>YouTube Analytics Reporting Pipeline</strong></summary>
 
 **What it does:** A daily time-based trigger in Apps Script pulls data from the YouTube Analytics API, stores it in a Google Sheets data warehouse, and populates a Looker Studio dashboard for channel performance tracking.
@@ -161,9 +197,9 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 <details>
 <summary><strong>Closer & Setter EOD Data Pipeline</strong> <em>(Team Project)</em></summary>
 
-**What it does:** Sales closers and setters submit end-of-day data via Airtable Form. An automated Zapier integration (set up by the team) transfers submissions to Google Sheets. My role: daily data monitoring, cleaning, structuring cash collected, payments, and commissions — then building and maintaining the Looker Studio performance report.
+**What it does:** Sales closers and setters submit end-of-day data via Airtable Form. An automated Zapier integration (set up by the team) transfers submissions to Google Sheets. 
 
-**My role:** Data cleaning · monitoring · reporting
+**My role:** Daily data monitoring, cleaning, structuring cash collected, payments, and commissions — then building and maintaining the Looker Studio performance report.
 
 **Workflow**
 
@@ -172,7 +208,9 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Screenshot**
 
-![Report]<img width="1366" height="831" alt="4" src="https://github.com/user-attachments/assets/f53952b7-07e7-4a59-acb0-96fcd89e2d06" />
+<img width="572" height="526" alt="Phone setter" src="https://github.com/user-attachments/assets/7657ecba-08f5-4186-8455-ea9ecd9180fc" />
+<img width="623" height="462" alt="Screenshot 2026-06-09 161007" src="https://github.com/user-attachments/assets/5b1a732d-2bb6-435b-adb8-ac3127fb9196" />
+
 
 **Stack:** `Airtable` `Zapier` `Google Sheets` `Looker Studio`
 
