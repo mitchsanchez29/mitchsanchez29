@@ -43,64 +43,97 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 <img width="800" alt="Auto-generated Response and Drive Storage" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" />
 
 **Stack:** `Google Forms` `Apps Script` `Google Sheets` `Google Docs` `Drive` `Gmail` `PDF`
-### 2. Facebook Ads & Google Ads Marketing Performance Dashboard
+### 2. Facebook Ads Performance Dashboard
 
-> *Connected multi-platform ad data into one live Looker Studio dashboard for real-time marketing visibility.*
+> *Connected Facebook Ads data into a live Looker Studio dashboard for real-time campaign visibility.*
 
-**The problem:** Marketing performance data lived in separate platforms — Facebook Ads and Google Ads — with no unified view, making reporting slow and inconsistent.
+**The problem:** Facebook Ads performance data had no centralized view — reporting was manual, slow, and inconsistent.
 
-**What I built:** A consolidated Looker Studio dashboard pulling from both platforms using native connectors (Google Ads) and Facebook token-based authentication (Facebook Ads). The dashboard auto-refreshes and gives the team a single source of truth for campaign performance.
+**What I built:** A Looker Studio dashboard connected to Facebook Ads via OAuth token and a partner connector. The dashboard auto-refreshes and gives the team a live view of campaign spend, reach, and results.
 
 **Workflow Diagram**
 
-<img width="703" height="321" alt="Screenshot 2026-06-05 181628" src="https://github.com/user-attachments/assets/f3de0ce6-4dc6-4a78-beae-cc1b5ca2865d" />
-<img width="709" height="303" alt="Screenshot 2026-06-05 181646" src="https://github.com/user-attachments/assets/a435a448-4d78-4dad-9722-13d082222a22" />
-
+<img width="709" height="303" alt="Screenshot 2026-06-05 181646" src="https://github.com/user-attachments/assets/dd44518e-1bd5-4ebf-8dce-9a3e7b4609b5" />
 
 **Key features:**
 - Facebook Ads connected via OAuth token + partner connector
-- Google Ads and Google Analytics connected via native Looker Studio connectors
-- Combined view: spend, ROAS, CTR, CPM, sessions, conversions
+- Live campaign metrics: spend, reach, CPM, CTR, results
 - Auto-refreshing — no manual exports needed
+- Single source of truth for the marketing team
 
 **Screenshots**
 
-| Looker Studio Dashboard |
+| **Facebook Ads Manager** | **Looker Studio Dashboard** |
 |---|---|
-<img width="1366" height="920" alt="6" src="https://github.com/user-attachments/assets/65dbe30f-32ea-4be4-957a-9f55536f723e" />
+| <img width="807" height="357" alt="Screenshot 2026-06-09 154016" src="https://github.com/user-attachments/assets/35822623-7d5b-4010-a347-08dd520b7cc1" /> | <img width="525" height="527" alt="Screenshot 2026-06-09 153941" src="https://github.com/user-attachments/assets/8d8ecee4-b2bc-4daf-be1a-a9cf82c9818a" />|
 
+**Stack:** `Facebook Ads API` `OAuth Token` `Partner Connector` `Looker Studio`
 
-**Stack:** `Facebook Ads API` `Google Ads` `Google Analytics` `Looker Studio` `Data Connectors` `Google Sheets`
+---
 
+### 3. Google Ads & Analytics Performance Report
+
+> *Multi-page Looker Studio report with Week-over-Week, Month-over-Month, and Year-to-Date views.*
+
+**The problem:** Google Ads and Analytics data had no structured reporting — no way to quickly compare performance across different time periods.
+
+**What I built:** A multi-page Looker Studio dashboard connected to Google Analytics, providing clear and consistent performance reporting across WoW, MoM, and YTD views — all in one shareable PDF-ready report.
+
+**Workflow Diagram**
+
+<img width="703" height="321" alt="Screenshot 2026-06-05 181628" src="https://github.com/user-attachments/assets/a11d83b5-828b-4423-80bd-9316abd687f9" />
+
+**Key features:**
+- Connected to Google Analytics via native Looker Studio connector
+- Week-over-Week, Month-over-Month, Year-to-Date performance pages
+- Multi-page report layout — one page per reporting view
+- Shareable as PDF for client or management reporting
+
+**Screenshots**
+
+| **Page 1 — WoW Report** | **Page 2 — MoM Report** | **Page 3 — YTD Report** |
+|---|---|---|
+| <img width="527" height="587" alt="Screenshot 2026-06-09 154351" src="https://github.com/user-attachments/assets/60da1bf2-7ea7-4235-a6d8-ff5e79d98ffe" /> | <img width="526" height="592" alt="Screenshot 2026-06-09 154425" src="https://github.com/user-attachments/assets/a9cc0be9-a82c-44bf-81ad-52e3cce59f26" /> | <img width="496" height="691" alt="Screenshot 2026-06-09 154455" src="https://github.com/user-attachments/assets/d2e7419a-6a73-4d81-97f4-518ae45c145f" /> |
+
+**Stack:** `Google Ads` `Google Analytics` `Looker Studio` `Native Connector` `PDF Report`
 ---
 
 ### 3. Upcoming & Delayed Payments Tracker
 
-> *Merged and cleaned payment data from multiple sources using Apps Script — powering a management-ready Looker Studio report.*
+> *Automated payment aging system — splits clients into Upcoming and Delayed sheets, triggers Slack follow-ups, and powers two live Looker Studio dashboards.*
 
-**The problem:** Payment data came in from multiple spreadsheets with inconsistent formatting. Identifying overdue and upcoming payments required hours of manual checking every week.
+**The problem:** Payment data came in from multiple spreadsheets with inconsistent formatting. Identifying overdue and upcoming payments required hours of manual checking every week — and follow-ups were done manually.
 
-**What I built:** An Apps Script solution that pulls from multiple data sources, deduplicates records, standardizes formats, flags upcoming and overdue payments, and loads everything into a clean tracker. A Looker Studio report gives management real-time payment status without touching a spreadsheet.
+**What I built:** An Apps Script solution that reads from a master **Installment Tracker** sheet, calculates each client's payment aging, and automatically sorts them:
 
-**Workflow Design**
+- **0–90 days to due date** → moved to **Upcoming Payments** sheet
+- **1+ days overdue** → moved to **Delayed Payments** sheet + **Slack notification** sent to follow up
+- Once a payment is marked as **paid**, it is automatically **removed** from the Delayed tracker
+- Two separate **Looker Studio dashboards** — one per sheet — for management reporting
 
-<img width="701" height="288" alt="Screenshot 2026-06-05 181529" src="https://github.com/user-attachments/assets/f3134eb7-8cb5-4074-b276-a5319836ccc4" />
+**Workflow Diagram**
+
+<img width="572" height="426" alt="Screenshot 2026-06-09 155745" src="https://github.com/user-attachments/assets/f3905c72-b6cd-4622-bf3e-b0f4de6dfee8" />
 
 **Key features:**
-- Multi-source data merge using Apps Script
-- Automated cleaning: remove duplicates, fix formatting
-- Upcoming vs. delayed payment flags with date logic
-- Looker Studio report with payment status, amounts, and timelines
+- Reads from master Installment Tracker as single source of truth
+- Aging logic: calculates days remaining or days overdue per client
+- Auto-splits data into Upcoming vs. Delayed sheets
+- Paid entries auto-removed from Delayed tracker — always clean
+- Slack webhook notification for overdue follow-ups
+- Two Looker Studio dashboards — Upcoming and Delayed — updated automatically
 
 **Screenshots**
 
-| Looker Studio Report |
+| **Upcoming Payments Sheet** | **Delayed Payments Sheet** |
 |---|---|
-<img width="1366" height="831" alt="4" src="https://github.com/user-attachments/assets/df24c832-5bf9-4c93-9b2a-ba067e51aedb" />
+| <img width="801" height="436" alt="Upcoming Payments" src="https://github.com/user-attachments/assets/ee2972a4-4b4d-4f31-8de7-c9c11a3fcfad" /> | <img width="1037" height="524" alt="Screenshot 2026-06-09 012519" src="https://github.com/user-attachments/assets/c97f5689-aac0-40b8-a854-0ef184d39bf3" /> |
 
-**Stack:** `Google Apps Script` `Google Sheets` `Looker Studio`
+| **Looker Studio — Upcoming Dashboard** | **Looker Studio — Delayed Dashboard** |
+|---|---|
+| <img width="596" height="527" alt="Screenshot 2026-06-09 022557" src="https://github.com/user-attachments/assets/6ad35d81-8779-4a62-9d5f-a7af7d290e02" /> | <img width="600" height="535" alt="Screenshot 2026-06-09 022721" src="https://github.com/user-attachments/assets/a312a9e3-63ef-4c36-91e0-fa8337d37b90" /> |
 
----
+**Stack:** `Google Apps Script` `Google Sheets` `Slack Webhooks` `Looker Studio`
 
 ## 📂 More Projects
 
