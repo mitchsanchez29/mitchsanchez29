@@ -147,9 +147,9 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Impact:** Improved reporting visibility and made it easier to monitor payment performance without manually checking spreadsheets.
 
-**Dashboard Screenshot**
+**Financial Dashboard - LookerStudio Screenshot**
 
-![Financial Dashboard - Looker]<img width="597" height="527" alt="Screenshot 2026-06-09 022906" src="https://github.com/user-attachments/assets/2ca587ef-4035-4071-8596-2afd19bfab63" />
+<img width="597" height="527" alt="Screenshot 2026-06-09 022906" src="https://github.com/user-attachments/assets/2ca587ef-4035-4071-8596-2afd19bfab63" />
 
 **Stack:** `Looker Studio` `Google Sheets` `Data Visualization` `Financial Reporting`
 
@@ -166,13 +166,16 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Impact:** Improved financial visibility and made it easier to track business performance, profitability, and cash flow in one centralized dashboard.
 
-**Screenshot**
+**Financial Dashboard - Google sheets Screenshot**
 
-![Financial Dashboard - Google sheets]<img width="597" height="527" alt="Screenshot 2026-06-09 022906" src="https://github.com/user-attachments/assets/2ca587ef-4035-4071-8596-2afd19bfab63" />
+<img width="597" height="527" alt="Screenshot 2026-06-09 022906" src="https://github.com/user-attachments/assets/2ca587ef-4035-4071-8596-2afd19bfab63" />
 
 **Stack:** `Google Sheets` `Financial Reporting` `Data Management` `Dashboard` `Data Visualization`
 
 </details>
+
+---
+
 <details>
 <summary><strong>YouTube Analytics Reporting Pipeline</strong></summary>
 
