@@ -6,7 +6,7 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=flat&logo=github&logoColor=white)](https://mitchsanchez29.github.io/automation-portfolio/)
 [![OnlineJobs.ph](https://img.shields.io/badge/OnlineJobs.ph-View%20Profile-FF6B35?style=flat)](https://v2.onlinejobs.ph/jobseekers/info/1257742)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-00C47F?style=flat&logo=gmail&logoColor=white)](mailto:sanchezmitch77@email.com)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-00C47F?style=flat&logo=gmail&logoColor=white)](mailto:sanchezmitch77@gmail.com)
 
 ---
 
@@ -34,20 +34,15 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Screenshots**
 
-**Lead Tracker (Sheets)** 
-<img width="1517" height="160" alt="Screenshot 2026-06-08 211555" src="https://github.com/user-attachments/assets/f4f73371-54c9-4d2f-841e-1372d42445fc" />
+| **Lead Tracker (Sheets)** | **Dashboard Summary** |
+|---|---|
+| <img width="600" alt="Lead Tracker" src="https://github.com/user-attachments/assets/f4f73371-54c9-4d2f-841e-1372d42445fc" /> | <img width="600" alt="Dashboard Summary" src="https://github.com/user-attachments/assets/d1705835-5754-47bb-9624-3eac80989d28" /> |
 
-** Dashboard Summary**
- <img width="1210" height="488" alt="Screenshot 2026-06-08 211435" src="https://github.com/user-attachments/assets/d1705835-5754-47bb-9624-3eac80989d28" />
+**Auto-generated Response & Google Drive Storage**
 
-**  Auto-generated Response & Google Drive Storage**
-<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" />
+<img width="800" alt="Auto-generated Response and Drive Storage" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" />
 
-
-**Stack:** `Google Forms` `Apps Script` `Google Sheets` `Google Docs` `Drive` `Gmail`
-
----
-
+**Stack:** `Google Forms` `Apps Script` `Google Sheets` `Google Docs` `Drive` `Gmail` `PDF`
 ### 2. Facebook Ads & Google Ads Marketing Performance Dashboard
 
 > *Connected multi-platform ad data into one live Looker Studio dashboard for real-time marketing visibility.*
