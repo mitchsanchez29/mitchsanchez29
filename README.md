@@ -34,9 +34,9 @@ I build automated business workflows using **Google Apps Script**, **REST APIs**
 
 **Screenshots**
 
-| CRM Tracker & Dashboard (Sheets) | Auto-generated PDF Output |
-|---|---|
-<img width="1366" height="856" alt="2" src="https://github.com/user-attachments/assets/fab10ace-c659-4624-a181-9cef2f09713a" /> | <img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" /> |
+**| Lead Tracker (Sheets) | Dashboard Summary | Auto-generated Response & Google Drive Storage |**
+<img width="1517" height="160" alt="Screenshot 2026-06-08 211555" src="https://github.com/user-attachments/assets/f4f73371-54c9-4d2f-841e-1372d42445fc" /> | <img width="1210" height="488" alt="Screenshot 2026-06-08 211435" src="https://github.com/user-attachments/assets/d1705835-5754-47bb-9624-3eac80989d28" />
+| <img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/1ec987a5-3cb4-41c0-9b54-4807398515c7" /> |
 
 
 **Stack:** `Google Forms` `Apps Script` `Google Sheets` `Google Docs` `Drive` `Gmail`
