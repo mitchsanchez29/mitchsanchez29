@@ -1,6 +1,8 @@
 # Hi, I'm Michelle 👋
 
-### Google Workspace Automation & API Integration Specialist
+### Workflow Automation Specialist
+**Google Workspace · Zapier
+· Looker Studio**
 
 I build automated business workflows using **Google Apps Script**, **REST APIs**, **webhooks**, and **Google Workspace tools** — replacing manual processes with reliable, scalable systems.
 
