@@ -1,10 +1,10 @@
 # Hi, I'm Michelle 👋
 
-### Workflow Automation Specialist
-**Google Workspace · Zapier
-· Looker Studio**
+### Virtual Assistant | Automation & Operations Support
 
-I build automated business workflows using **Google Apps Script**, **Zapier**, **REST APIs**, **webhooks**, and **Google Workspace tools** — replacing manual processes with reliable, scalable systems.
+**Google Workspace · Zapier · Looker Studio · Google Apps Script**
+
+Detail-oriented Virtual Assistant with experience in administrative support, reporting, and workflow automation. Skilled in **Google Workspace tools**, **Google Apps Script**, **Zapier**, and **Looker Studio**. I enjoy creating organized systems, automating repetitive tasks, and helping teams work more efficiently.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=flat&logo=github&logoColor=white)](https://mitchsanchez29.github.io/automation-portfolio/)
 [![OnlineJobs.ph](https://img.shields.io/badge/OnlineJobs.ph-View%20Profile-FF6B35?style=flat)](https://v2.onlinejobs.ph/jobseekers/info/1257742)
@@ -12,6 +12,26 @@ I build automated business workflows using **Google Apps Script**, **Zapier**, *
 
 ---
 
+## 💼 What I Can Help With
+
+### Administrative Support
+✔ General administrative support
+✔ Inbox and email management
+✔ Calendar scheduling
+✔ Data entry and data management
+✔ Basic bookkeeping and Accounts Receivable (AR)
+
+### Workflow & Automation
+✔ Google Workspace administration
+✔ Google Apps Script & Zapier automation
+✔ Lead management and CRM workflows
+✔ Reporting workflows
+✔ Custom business tools
+
+### Reporting & Operations
+✔ Google Sheets systems and dashboards
+✔ Process improvement and SOP creation
+✔ File, document, and workflow organization
 
 ## 📌 Featured Projects
 
@@ -46,60 +66,41 @@ I build automated business workflows using **Google Apps Script**, **Zapier**, *
 
 **Stack:** `Google Forms` `Apps Script` `Google Sheets` `Google Docs` `Drive` `Gmail` `PDF`
 
-### 2. Facebook Ads Performance Dashboard
+### 2. Client Reporting Management System
 
-> *Connected Facebook Ads data into a live Looker Studio dashboard for real-time campaign visibility.*
+> *Built an automated Google Sheets reporting system to manage recurring client reports and maintain a centralized reporting history.*
 
-**The problem:** Facebook Ads performance data had no centralized view — reporting was manual, slow, and inconsistent.
+**The problem:** Managing weekly Facebook Ads and Google Ads reports across multiple clients manually made it easy to miss reports, maintain reporting history, and track active client accounts.
 
-**What I built:** A Looker Studio dashboard connected to Facebook Ads via OAuth token and a partner connector. The dashboard auto-refreshes and gives the team a live view of campaign spend, reach, and results.
-
-**Workflow Diagram**
-
-<img width="709" height="303" alt="Screenshot 2026-06-05 181646" src="https://github.com/user-attachments/assets/dd44518e-1bd5-4ebf-8dce-9a3e7b4609b5" />
+**What I built:** A Google Sheets and Google Apps Script reporting system that automatically displays active clients for weekly reporting, logs completed reports, updates client reporting history, and generates reporting analytics.
 
 **Key features:**
-- Facebook Ads connected via OAuth token + partner connector
-- Live campaign metrics: spend, reach, CPM, CTR, results
-- Auto-refreshing — no manual exports needed
-- Single source of truth for the marketing team
+**Key Features:**
+
+* Centralized **Client Overview** to track active and inactive client accounts.
+* Automatically displays only active clients in the **This Week Reports** sheet.
+* Tracks report status (**Pending**, **In Progress**, and **Done**) for each client.
+* Automatically logs completed reports to the **Report Logs** using Google Apps Script.
+* Maintains each client's reporting history, including:
+  * Reporting start week
+  * Latest completed reporting week
+  * Total reports completed
+* Annual Analytics Dashboard with monthly, yearly, and per-client reporting summaries.
+* Built with Google Sheets formulas, data validation, linked sheets, and Google Apps Script to reduce manual work and improve reporting accuracy.
+
 
 **Screenshots**
 
-| **Facebook Ads Manager** | **Looker Studio Dashboard** |
+| **Client Overview** | **This Week Reports** |
 |---|---|
-| <img width="807" height="357" alt="Screenshot 2026-06-09 154016" src="https://github.com/user-attachments/assets/35822623-7d5b-4010-a347-08dd520b7cc1" /> | <img width="525" height="527" alt="Screenshot 2026-06-09 153941" src="https://github.com/user-attachments/assets/8d8ecee4-b2bc-4daf-be1a-a9cf82c9818a" />|
+| <img width="742" height="572" alt="Screenshot 2026-06-29 105932" src="https://github.com/user-attachments/assets/453b90db-e6a2-43f2-8e28-b4ee8b24f4fd" />| <img width="832" height="576" alt="Screenshot 2026-06-29 110152" src="https://github.com/user-attachments/assets/7385f214-d8c2-43de-8f14-633bfa521315" />
+| **Report Logs** | **Annual Analytics Dashboard** |
+|---|---|
+| <img width="800" height="566" alt="Screenshot 2026-06-29 110103" src="https://github.com/user-attachments/assets/08c31d09-c867-4198-8690-9e7979e1f249" /> | <img width="752" height="587" alt="Screenshot 2026-06-29 110322" src="https://github.com/user-attachments/assets/5a17a773-978a-4c37-abf7-31a7d20d0453" />|
 
-**Stack:** `Facebook Ads API` `OAuth Token` `Partner Connector` `Looker Studio`
+**Stack:** `Google Sheets` `Google Apps Script` `Google Workspace` 
 
 ---
-
-### 3. Google Ads & Analytics Performance Report
-
-> *Multi-page Looker Studio report with Week-over-Week, Month-over-Month, and Year-to-Date views.*
-
-**The problem:** Google Ads and Analytics data had no structured reporting — no way to quickly compare performance across different time periods.
-
-**What I built:** A multi-page Looker Studio dashboard connected to Google Analytics, providing clear and consistent performance reporting across WoW, MoM, and YTD views — all in one shareable PDF-ready report.
-
-**Workflow Diagram**
-
-<img width="703" height="321" alt="Screenshot 2026-06-05 181628" src="https://github.com/user-attachments/assets/a11d83b5-828b-4423-80bd-9316abd687f9" />
-
-**Key features:**
-- Connected to Google Analytics via native Looker Studio connector
-- Week-over-Week, Month-over-Month, Year-to-Date performance pages
-- Multi-page report layout — one page per reporting view
-- Shareable as PDF for client or management reporting
-
-**Screenshots**
-
-| **Page 1 — WoW Report** | **Page 2 — MoM Report** | **Page 3 — YTD Report** |
-|---|---|---|
-| <img width="527" height="587" alt="Screenshot 2026-06-09 154351" src="https://github.com/user-attachments/assets/60da1bf2-7ea7-4235-a6d8-ff5e79d98ffe" /> | <img width="526" height="592" alt="Screenshot 2026-06-09 154425" src="https://github.com/user-attachments/assets/a9cc0be9-a82c-44bf-81ad-52e3cce59f26" /> | <img width="496" height="691" alt="Screenshot 2026-06-09 154455" src="https://github.com/user-attachments/assets/d2e7419a-6a73-4d81-97f4-518ae45c145f" /> |
-
-**Stack:** `Google Ads` `Google Analytics` `Looker Studio` `Native Connector` `PDF Report`
-
 
 ### 3. Upcoming & Delayed Payments Tracker
 
@@ -137,6 +138,60 @@ I build automated business workflows using **Google Apps Script**, **Zapier**, *
 | <img width="596" height="527" alt="Screenshot 2026-06-09 022557" src="https://github.com/user-attachments/assets/6ad35d81-8779-4a62-9d5f-a7af7d290e02" /> | <img width="600" height="535" alt="Screenshot 2026-06-09 022721" src="https://github.com/user-attachments/assets/a312a9e3-63ef-4c36-91e0-fa8337d37b90" /> |
 
 **Stack:** `Google Apps Script` `Google Sheets` `Slack Webhooks` `Looker Studio`
+
+### 4. Facebook Ads Performance Dashboard
+
+> *Connected Facebook Ads data into a live Looker Studio dashboard for real-time campaign visibility.*
+
+**The problem:** Facebook Ads performance data had no centralized view — reporting was manual, slow, and inconsistent.
+
+**What I built:** A Looker Studio dashboard connected to Facebook Ads via OAuth token and a partner connector. The dashboard auto-refreshes and gives the team a live view of campaign spend, reach, and results.
+
+**Workflow Diagram**
+
+<img width="709" height="303" alt="Screenshot 2026-06-05 181646" src="https://github.com/user-attachments/assets/dd44518e-1bd5-4ebf-8dce-9a3e7b4609b5" />
+
+**Key features:**
+- Facebook Ads connected via OAuth token + partner connector
+- Live campaign metrics: spend, reach, CPM, CTR, results
+- Auto-refreshing — no manual exports needed
+- Single source of truth for the marketing team
+
+**Screenshots**
+
+| **Facebook Ads Manager** | **Looker Studio Dashboard** |
+|---|---|
+| <img width="807" height="357" alt="Screenshot 2026-06-09 154016" src="https://github.com/user-attachments/assets/35822623-7d5b-4010-a347-08dd520b7cc1" /> | <img width="525" height="527" alt="Screenshot 2026-06-09 153941" src="https://github.com/user-attachments/assets/8d8ecee4-b2bc-4daf-be1a-a9cf82c9818a" />|
+
+**Stack:** `Facebook Ads API` `OAuth Token` `Partner Connector` `Looker Studio`
+
+---
+
+### 5. Google Ads & Analytics Performance Report
+
+> *Multi-page Looker Studio report with Week-over-Week, Month-over-Month, and Year-to-Date views.*
+
+**The problem:** Google Ads and Analytics data had no structured reporting — no way to quickly compare performance across different time periods.
+
+**What I built:** A multi-page Looker Studio dashboard connected to Google Analytics, providing clear and consistent performance reporting across WoW, MoM, and YTD views — all in one shareable PDF-ready report.
+
+**Workflow Diagram**
+
+<img width="703" height="321" alt="Screenshot 2026-06-05 181628" src="https://github.com/user-attachments/assets/a11d83b5-828b-4423-80bd-9316abd687f9" />
+
+**Key features:**
+- Connected to Google Analytics via native Looker Studio connector
+- Week-over-Week, Month-over-Month, Year-to-Date performance pages
+- Multi-page report layout — one page per reporting view
+- Shareable as PDF for client or management reporting
+
+**Screenshots**
+
+| **Page 1 — WoW Report** | **Page 2 — MoM Report** | **Page 3 — YTD Report** |
+|---|---|---|
+| <img width="527" height="587" alt="Screenshot 2026-06-09 154351" src="https://github.com/user-attachments/assets/60da1bf2-7ea7-4235-a6d8-ff5e79d98ffe" /> | <img width="526" height="592" alt="Screenshot 2026-06-09 154425" src="https://github.com/user-attachments/assets/a9cc0be9-a82c-44bf-81ad-52e3cce59f26" /> | <img width="496" height="691" alt="Screenshot 2026-06-09 154455" src="https://github.com/user-attachments/assets/d2e7419a-6a73-4d81-97f4-518ae45c145f" /> |
+
+**Stack:** `Google Ads` `Google Analytics` `Looker Studio` `Native Connector` `PDF Report`
 
 ## 📂 More Projects
 
