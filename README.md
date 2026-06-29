@@ -17,7 +17,6 @@ Detail-oriented Virtual Assistant with experience in administrative support, rep
 ### Administrative Support
 ✔ General administrative support
 ✔ Inbox and email management
-✔ Calendar scheduling
 ✔ Data entry and data management
 ✔ Basic bookkeeping and Accounts Receivable (AR)
 
