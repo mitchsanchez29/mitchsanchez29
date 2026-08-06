@@ -48,8 +48,6 @@ Instead of focusing on tools, the portfolio is organized around the business pro
 ### 🔁 [Business Automation](https://github.com/mitchsanchez29/business-automation)
 Automate repetitive workflows, connect business tools, and streamline operations to reduce manual work and improve efficiency.
 
-**Explore automation projects →**(https://github.com/mitchsanchez29/business-automation)
-
 ### 📊 [Reporting & Analytics](https://github.com/mitchsanchez29/reporting-analytics)
 Transform business data into dashboards and reporting systems that provide clear insights for faster, data-driven decisions.
 
@@ -95,6 +93,6 @@ Document + hand off clean
 
 ---
 
-#### Every repository contains real work, enhanced work projects, and case studies built to solve practical business challenges through automation, reporting, and finance systems.
+##### Every repository contains real work, enhanced work projects, and case studies built to solve practical business challenges through automation, reporting, and finance systems.
 
 *Last updated: 2026 · Built with Google Apps Script, APIs, and a lot of UrlFetchApp calls.*
