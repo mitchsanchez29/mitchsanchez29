@@ -41,9 +41,9 @@ Instead of focusing on tools, the portfolio is organized around the business pro
 • Google Workspace Solutions
 
 ---
+## 🚀 Explore My Work
 
-## Explore My Work
-## How I Help Businesses
+**Click a category below to explore complete projects, case studies, screenshots, workflows, and business solutions.**
 
 ### 🔁 [Business Automation](https://github.com/mitchsanchez29/business-automation)
 Automate repetitive workflows, connect business tools, and streamline operations to reduce manual work and improve efficiency.
@@ -94,7 +94,7 @@ Document + hand off clean
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-00C47F?style=flat&logo=gmail&logoColor=white)](mailto:sanchezmitch77@gmail.com)
 
 ---
----
 
-### Every repository contains real work, enhanced work projects, and case studies built to solve practical business challenges through automation, reporting, and finance systems.
+#### Every repository contains real work, enhanced work projects, and case studies built to solve practical business challenges through automation, reporting, and finance systems.
+
 *Last updated: 2026 · Built with Google Apps Script, APIs, and a lot of UrlFetchApp calls.*
