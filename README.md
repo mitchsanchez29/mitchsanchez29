@@ -1,8 +1,6 @@
+# Helping small businesses, agencies, and operations teams automate repetitive work, improve reporting visibility, and build reliable business systems that save time, reduce errors, and support better decisions.
 ### Automation & Reporting Specialist | AI Admin VA
-
-## Helping small businesses, agencies, and operations teams automate repetitive work, improve reporting visibility, and build reliable business systems that save time, reduce errors, and support better decisions.
-
-### Michelle Sanchez
+#### Michelle Sanchez
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=flat&logo=github&logoColor=white)](https://mitchsanchez29.github.io/automation-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
