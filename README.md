@@ -29,13 +29,13 @@ I work mainly in Google Workspace, Apps Script, Zapier, Airtable, and Looker Stu
 
 ## 🗂️ Portfolio Repositories
 
-### 🔁 [Business Automation](../business-automation)
+### 🔁 [Business Automation](https://github.com/mitchsanchez29/business-automation)
 Workflow automation, quote systems, CRM pipelines, notification systems. For businesses drowning in repetitive manual steps.
 
-### 📊 [Reporting & Analytics](../reporting-analytics)
+### 📊 [Reporting & Analytics](https://github.com/mitchsanchez29/reporting-analytics)
 Client reporting systems, ad performance dashboards, analytics pipelines. For businesses that need visibility without waiting on a manual report.
 
-### 💰 [Finance & Operations](../finance-operations)
+### 💰 [Finance & Operations](https://github.com/mitchsanchez29/finance-operations)
 Accounts receivable, payment tracking, profit/loss reporting. For businesses that need clean, current financial visibility.
 
 ---
