@@ -11,7 +11,7 @@
 
 Growing businesses often lose hours every week to manual reporting, repetitive administrative work, disconnected spreadsheets, and processes that rely on people instead of systems.
 
-This portfolio demonstrates how those challenges can be solved through workflow automation, reporting systems, dashboards, and finance operations built with Google Workspace, Apps Script, APIs, Zapier, Airtable, Looker Studio and Claude|Chatgpt.
+This portfolio showcases real work, enhanced work projects, and business case studies that solve operational challenges through workflow automation, reporting systems, dashboards, and finance operations using Google Workspace, Apps Script, APIs, Zapier, Airtable, Looker Studio, and AI tools such as Claude and ChatGPT.
 
 Instead of focusing on tools, the portfolio is organized around the business problems each solution solves.
 
@@ -19,28 +19,24 @@ Instead of focusing on tools, the portfolio is organized around the business pro
 
 ## Why Businesses Work With Me
 
-✔ Eliminate repetitive manual work through automation
-
-✔ Build reporting systems that provide real-time business visibility
-
-✔ Organize scattered data into one reliable source of truth
-
-✔ Improve payment and finance tracking
-
-✔ Create scalable systems that continue working as the business grows
-
+✔ Save hours of manual work through automation
+✔ Improve business visibility with real-time dashboards
+✔ Centralize business data into one reliable system
+✔ Strengthen finance operations with organized tracking
+✔ Build scalable processes that grow with the business
 ---
 
 ## Portfolio Highlights
 
-• Google Apps Script Automation
-• API Integrations
-• Workflow Automation
+• Business Process Automation
 • Reporting & Analytics Dashboards
-• Finance & Accounts Receivable Systems
+• API Integrations & Data Pipelines
 • Google Workspace Solutions
+• Finance & Accounts Receivable Systems
+• Workflow Automation with Zapier & Apps Script
 
 ---
+
 ## 🚀 Explore My Work
 
 **Click a category below to explore complete projects, case studies, screenshots, workflows, and business solutions.**
