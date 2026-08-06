@@ -1,4 +1,4 @@
-#Automation & Reporting Specialist | AI Admin VA
+# Automation & Reporting Specialist | AI Admin VA
 
 ## Helping small businesses, agencies, and operations teams automate repetitive work, improve reporting visibility, and build reliable business systems that save time, reduce errors, and support better decisions.
 
