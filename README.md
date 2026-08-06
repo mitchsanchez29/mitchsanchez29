@@ -1,8 +1,16 @@
 # Hi, I'm Michelle 👋
 
-### Automation Specialist · AI Admin VA · Operations Analyst
+### Automation & Reporting Specialist | AI Admin VA
 
-I help businesses run on systems instead of manual work — automation, reporting, and finance tracking that runs on its own once it's built.
+## Helping growing businesses eliminate manual work, improve reporting visibility, and build organized systems that save time, reduce errors, and support better business decisions.
+
+Small businesses, agencies, and operations teams often lose valuable time to repetitive tasks, disconnected spreadsheets, manual reporting, and inefficient workflows.
+
+This portfolio showcases automation, reporting, and finance solutions designed to streamline operations, improve visibility, and create reliable systems that businesses can depend on as they grow.
+
+Explore the portfolio by the business challenge you're looking to solve.
+
+---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=flat&logo=github&logoColor=white)](https://mitchsanchez29.github.io/automation-portfolio/)
 [![OnlineJobs.ph](https://img.shields.io/badge/OnlineJobs.ph-View%20Profile-FF6B35?style=flat)](https://v2.onlinejobs.ph/jobseekers/info/1257742)
@@ -10,27 +18,12 @@ I help businesses run on systems instead of manual work — automation, reportin
 
 ---
 
-## 👋 About Me
-
-Business owners lose time in three places: repetitive manual work, reporting that takes hours to pull together, and financial tracking that lives in scattered spreadsheets.
-
-I help businesses:
-
-- **Automate operations** — replace manual, repetitive steps with workflows that run themselves
-- **Improve reporting** — build dashboards and systems that give clear visibility on demand, not after a request
-- **Build business systems** — structured, documented tools that don't depend on one person remembering every step
-- **Improve finance visibility** — accounts receivable, payment tracking, and profit/loss reporting that's accurate and current
-- **Reduce manual work** — fewer repetitive tasks, fewer chances for error
-- **Make decisions faster** — the right numbers, visible at the right time
-
-I work mainly in Google Workspace, Apps Script, Zapier, Airtable, and Looker Studio. My portfolio is organized by the kind of problem I solve, not by tool — pick the repository below that matches what you need.
-
----
-
-## 🗂️ Portfolio Repositories
+## 🚀 How I Help Businesses
 
 ### 🔁 [Business Automation](https://github.com/mitchsanchez29/business-automation)
-Workflow automation, quote systems, CRM pipelines, notification systems. For businesses drowning in repetitive manual steps.
+Automate repetitive workflows, connect business tools, and streamline operations to reduce manual work and improve efficiency.
+
+**Explore automation projects →**(https://github.com/mitchsanchez29/business-automation)
 
 ### 📊 [Reporting & Analytics](https://github.com/mitchsanchez29/reporting-analytics)
 Client reporting systems, ad performance dashboards, analytics pipelines. For businesses that need visibility without waiting on a manual report.
