@@ -46,15 +46,15 @@ Improve financial visibility through organized payment tracking, accounts receiv
 
 ## 📊 How I Work
 
-Understand the workflow
-        ↓
-Identify what's slowing the team down
-        ↓
-Organize and improve the process
-        ↓
-Automate repetitive tasks where needed
-        ↓
-Deliver a reliable, easy-to-use system
+1. Understand the workflow
+        
+2. Identify what's slowing the team down
+        
+3. Organize and improve the process
+        
+4. Automate repetitive tasks where needed
+        
+5. Deliver a reliable, easy-to-use system
 
 ---
 
