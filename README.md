@@ -1,6 +1,6 @@
-# Automation & Reporting Specialist | AI Admin VA
+# Automation & Reporting Specialist | AI Administrative VA
 
-## Helping small businesses, agencies, and operations teams automate repetitive work, improve reporting visibility, and build reliable business systems that save time, reduce errors, and support better decisions.
+## Helping small businesses, marketing agencies, finance teams, real estate companies, and high-ticket sales organizations streamline operations, automate repetitive work, and improve reporting.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=flat&logo=github&logoColor=white)](https://mitchsanchez29.github.io/automation-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
@@ -9,9 +9,9 @@
 ---
 ## About
 
-Growing businesses often lose hours every week to manual reporting, repetitive administrative work, disconnected spreadsheets, and processes that rely on people instead of systems.
+Growing businesses often spend too much time on repetitive administrative work, manual reporting, disconnected spreadsheets, and processes that slow teams down.
 
-This portfolio showcases real work, enhanced work projects, and business case studies that solve operational challenges through workflow automation, reporting systems, dashboards, and finance operations using Google Workspace, Apps Script, APIs, Zapier, Airtable, Looker Studio, and AI tools such as Claude and ChatGPT.
+This portfolio showcases real work, client projects, enhanced work projects, and business case studies built to improve operations, reporting, finance processes, and workflow automation.
 
 Instead of focusing on tools, the portfolio is organized around the business problems each solution solves.
 
@@ -19,21 +19,21 @@ Instead of focusing on tools, the portfolio is organized around the business pro
 
 ## Why Businesses Work With Me
 
-✔ Save hours of manual work through automation
+✔ Reduce repetitive administrative and operational work
 
-✔ Improve business visibility with real-time dashboards
+✔ Improve reporting accuracy and business visibility
 
-✔ Centralize business data into one reliable system
+✔ Organize data into reliable business systems
 
-✔ Strengthen finance operations with organized tracking
+✔ Support finance operations with structured tracking and reporting
 
-✔ Build scalable processes that grow with the business
+✔ Build scalable workflows that grow with the business
 
 ---
 
 ## Portfolio Highlights
 
-• Business Process Automation
+• Business Operations & Administrative Systems
 • Reporting & Analytics Dashboards
 • API Integrations & Data Pipelines
 • Google Workspace Solutions
@@ -75,13 +75,19 @@ Document + hand off clean
 
 ## 📬 Available For
 
-- Freelance automation projects
-- VA roles with a technical / data focus
-- Google Apps Script development
-- Looker Studio dashboard builds
-- API integration work
-- Accounts receivable and payment tracking systems
-- Data cleaning and reporting systems
+• Operations Virtual Assistant
+
+• Administrative & Reporting Support
+
+• Workflow Automation
+
+• Reporting Dashboard Development
+
+• Finance Operations Support
+
+• Google Workspace Solutions
+
+• API Integration & Automated Reporting
 
 
 **Based in the Philippines · Remote-ready worldwide**
