@@ -13,8 +13,6 @@ Growing businesses often spend too much time on repetitive administrative work, 
 
 This portfolio showcases real work, client projects, enhanced work projects, and business case studies built to improve operations, reporting, finance processes, and workflow automation.
 
-Instead of focusing on tools, the portfolio is organized around the business problems each solution solves.
-
 ---
 
 ## Why Businesses Work With Me
@@ -28,17 +26,6 @@ Instead of focusing on tools, the portfolio is organized around the business pro
 ✔ Support finance operations with structured tracking and reporting
 
 ✔ Build scalable workflows that grow with the business
-
----
-
-## Portfolio Highlights
-
-• Business Operations & Administrative Systems
-• Reporting & Analytics Dashboards
-• API Integrations & Data Pipelines
-• Google Workspace Solutions
-• Finance & Accounts Receivable Systems
-• Workflow Automation with Zapier & Apps Script
 
 ---
 
@@ -89,8 +76,7 @@ Document + hand off clean
 
 • API Integration & Automated Reporting
 
-
-**Based in the Philippines · Remote-ready worldwide**
+---
 
 ## 📮 Contact
 
@@ -100,6 +86,5 @@ Document + hand off clean
 
 ---
 
-##### Every repository contains real work, enhanced work projects, and case studies built to solve practical business challenges through automation, reporting, and finance systems.
+*Every project is organized around a real business challenge, showing the problem, solution, workflow, and business value, not just the tools used.*
 
-*Last updated: 2026 · Built with Google Apps Script, APIs, and a lot of UrlFetchApp calls.*
