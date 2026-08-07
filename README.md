@@ -2,8 +2,6 @@
 
 ## Helping small businesses, agencies, and operations teams automate repetitive work, improve reporting visibility, and build reliable business systems that save time, reduce errors, and support better decisions.
 
-#### Michelle Sanchez
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=flat&logo=github&logoColor=white)](https://mitchsanchez29.github.io/automation-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-00C47F?style=flat&logo=gmail&logoColor=white)](mailto:sanchezmitch77@gmail.com)
@@ -30,6 +28,7 @@ Instead of focusing on tools, the portfolio is organized around the business pro
 ✔ Strengthen finance operations with organized tracking
 
 ✔ Build scalable processes that grow with the business
+
 ---
 
 ## Portfolio Highlights
