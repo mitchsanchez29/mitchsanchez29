@@ -21,11 +21,11 @@ This portfolio showcases real work, client projects, enhanced work projects, and
 
 ✔ Improve reporting accuracy and business visibility
 
-✔ Organize data into reliable business systems
+✔ Organize business data into reliable systems
 
 ✔ Support finance operations with structured tracking and reporting
 
-✔ Build scalable workflows that grow with the business
+✔ Build efficient workflows that save time and grow with the business
 
 ---
 
@@ -46,17 +46,15 @@ Improve financial visibility through organized payment tracking, accounts receiv
 
 ## 📊 How I Work
 
-```
-Understand the manual process
+Understand the workflow
         ↓
-Map the workflow end-to-end
+Identify what's slowing the team down
         ↓
-Identify automation trigger points
+Organize and improve the process
         ↓
-Build → Test → Deploy
+Automate repetitive tasks where needed
         ↓
-Document + hand off clean
-```
+Deliver a reliable, easy-to-use system
 
 ---
 
