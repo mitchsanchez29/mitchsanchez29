@@ -62,19 +62,14 @@ Document + hand off clean
 
 ## 📬 Available For
 
-• Operations Virtual Assistant
-
-• Administrative & Reporting Support
-
-• Workflow Automation
-
-• Reporting Dashboard Development
-
-• Finance Operations Support
-
-• Google Workspace Solutions
-
-• API Integration & Automated Reporting
+- AI administrative support
+- Workflow automation
+- Reporting & dashboard development
+- Business process documentation
+- Research & outreach support
+- Inbox & data management
+- Finance & Accounts receivable support
+- API Integration & Automated Reporting
 
 ---
 
