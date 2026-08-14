@@ -1,3 +1,26 @@
+![Banner](readme-banner.svg)<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#f8f3ea"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#c1633d"/>
+  <rect x="0" y="294" width="1200" height="6" fill="#c1633d"/>
+
+  <text x="60" y="110" font-family="Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#c1633d">OPERATIONS SUPPORT &#183; REPORTING &#183; AUTOMATION &#183; AI-ASSISTED WORK</text>
+
+  <text x="58" y="168" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" fill="#1b2436" letter-spacing="-1">Not Just Extra Hands.</text>
+  <text x="58" y="228" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" fill="#c1633d" letter-spacing="-1">A Better Process.</text>
+
+  <text x="60" y="265" font-family="Consolas, 'Liberation Mono', monospace" font-size="15" fill="#3d4658">Michelle Sanchez &#8212; AI Administrative VA</text>
+</svg>
+
+
+**MICHELLE SANCHEZ**
+### AI Administrative VA · Operations Support · Reporting · Automation
+
+# Not Just Extra Hands. A Better Process.
+
+Less scattered work. Clearer data. Smoother processes. Smarter support with automation and AI.
+
+6 years of freelance support work: administrative, reporting, and workflow automation.
+
 # Not Just Extra Hands. A Better Process.
 ### Operations Support · Reporting · Automation · AI-Assisted Work
 
