@@ -1,4 +1,4 @@
-![Banner](readme-banner.svg)<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+![Banner](<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="300" fill="#f8f3ea"/>
   <rect x="0" y="0" width="1200" height="6" fill="#c1633d"/>
   <rect x="0" y="294" width="1200" height="6" fill="#c1633d"/>
@@ -9,7 +9,7 @@
   <text x="58" y="228" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" fill="#c1633d" letter-spacing="-1">A Better Process.</text>
 
   <text x="60" y="265" font-family="Consolas, 'Liberation Mono', monospace" font-size="15" fill="#3d4658">Michelle Sanchez &#8212; AI Administrative VA</text>
-</svg>
+</svg>.svg)
 
 
 **MICHELLE SANCHEZ**
