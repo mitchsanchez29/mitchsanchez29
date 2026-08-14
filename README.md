@@ -1,9 +1,6 @@
 ![Banner](readme-banner.svg)
-# Not Just Extra Hands. A Better Process.
 
-### Operations Support · Reporting · Automation · AI-Assisted Work
-
-Less scattered work. Clearer data. Smoother processes. Smarter support with automation and AI.
+### Less scattered work. Clearer data. Smoother processes. Smarter support with automation and AI.
 
 6 years of freelance support work: administrative, reporting, and workflow automation.
 
