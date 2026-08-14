@@ -1,3 +1,4 @@
+![Banner](readme-banner.svg)
 # Not Just Extra Hands. A Better Process.
 
 ### Operations Support · Reporting · Automation · AI-Assisted Work
