@@ -1,35 +1,23 @@
-# Automation & Reporting Specialist | AI Administrative VA
+# Not Just Extra Hands. A Better Process.
+### Operations Support · Reporting · Automation · AI-Assisted Work
 
-## Helping small businesses, marketing agencies, finance teams, real estate companies, and high-ticket sales organizations streamline operations, automate repetitive work, and improve reporting.
+Less scattered work. Clearer data. Smoother processes. Smarter support with automation and AI.
+
+6 years of freelance support work: administrative, reporting, and workflow automation.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=flat&logo=github&logoColor=white)](https://mitchsanchez29.github.io/automation-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-00C47F?style=flat&logo=gmail&logoColor=white)](mailto:sanchezmitch77@gmail.com)
 
 ---
+
 ## About
 
-Growing businesses often spend too much time on repetitive administrative work, manual reporting, disconnected spreadsheets, and processes that slow teams down.
-
-This portfolio showcases real work, client projects, enhanced work projects, and business case studies built to improve operations, reporting, finance processes, and workflow automation.
+Growing businesses often spend too much time on repetitive administrative work, manual reporting, disconnected spreadsheets, and processes that slow teams down. This portfolio shows real work built to fix exactly that.
 
 ---
 
-## Why Businesses Work With Me
-
-✔ Reduce repetitive administrative and operational work
-
-✔ Improve reporting accuracy and business visibility
-
-✔ Organize business data into reliable systems
-
-✔ Support finance operations with structured tracking and reporting
-
-✔ Build efficient workflows that save time and grow with the business
-
----
-
-## 🚀 Explore My Work
+## Explore My Work
 
 **Click a category below to explore complete projects, case studies, screenshots, workflows, and business solutions.**
 
@@ -44,34 +32,31 @@ Improve financial visibility through organized payment tracking, accounts receiv
 
 ---
 
-## 📊 How I Work
+## Available For
 
-1. Understand the workflow
-        
-2. Identify what's slowing the team down
-        
-3. Organize and improve the process
-        
-4. Automate repetitive tasks where needed
-        
-5. Deliver a reliable, easy-to-use system
-
----
-
-## 📬 Available For
-
-- AI administrative support
-- Workflow automation
+- Administrative and Operation support
 - Reporting & dashboard development
-- Business process documentation
-- Research & outreach support
-- Inbox & data management
-- Finance & Accounts receivable support
-- API Integration & Automated Reporting
+- Finance & accounts receivable support
+- Research & outreach
+- Inbox & document organization
+- Workflow automation (Google workspace, Zapier)
+- API integration & automated reporting
 
 ---
 
-## 📮 Contact
+## How It Works
+
+**Business Work, Handled.**
+
+1. **Send a Message** — Describe the problem or the task that needs support.
+2. **Get a Response** — A reply within 24 hours (Philippines, GMT+8).
+3. **See the Scope** — Scope and timeline shared before any work starts.
+
+[Send The First Message →](mailto:sanchezmitch77@gmail.com)
+
+---
+
+## Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=flat&logo=github&logoColor=white)](https://mitchsanchez29.github.io/automation-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
@@ -79,5 +64,5 @@ Improve financial visibility through organized payment tracking, accounts receiv
 
 ---
 
-*Every project is organized around a real business challenge, showing the problem, solution, workflow, and business value, not just the tools used.*
+*"Give thanks in all circumstances." — 1 Thess. 5:18*
 
