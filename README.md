@@ -12,7 +12,11 @@
 
 ## About
 
-Growing businesses often spend too much time on repetitive administrative work, manual reporting, disconnected spreadsheets, and processes that slow teams down. This portfolio shows real work built to fix exactly that.
+Businesses lose time to **manual reporting, scattered data, repetitive admin work, and disconnected workflows.**
+
+For 6+ years, I've helped **e-commerce and Amazon sellers, marketing agencies, finance teams, real estate businesses, and sales organizations** turn those pain points into **clearer systems, automated workflows, reliable reporting, and better operational visibility.**
+
+This portfolio shows the **real problem → solution → business value** behind that work.
 
 ---
 
