@@ -4,9 +4,9 @@
 
 6 years of freelance support work: administrative, reporting, and workflow automation.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-14B8A6?style=flat&logo=vercel&logoColor=white)](https://michelle-systems-studio.lovable.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-00C47F?style=flat&logo=gmail&logoColor=white)](mailto:sanchezmitch77@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://michelle-systems-studio.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanchezmitch77@gmail.com)
 
 ---
 
@@ -20,13 +20,22 @@ Growing businesses often spend too much time on repetitive administrative work, 
 
 **Click a category below to explore complete projects, case studies, screenshots, workflows, and business solutions.**
 
-### 🔁 [Business Automation](https://github.com/mitchsanchez29/business-automation)
+<br>
+
+[![Business Automation](https://img.shields.io/badge/Business_Automation-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/business-automation)
+
 Automate repetitive workflows, connect business tools, and streamline operations to reduce manual work and improve efficiency.
 
-### 📊 [Reporting & Analytics](https://github.com/mitchsanchez29/reporting-analytics)
+<br>
+
+[![Reporting & Analytics](https://img.shields.io/badge/Reporting_%26_Analytics-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/reporting-analytics)
+
 Transform business data into dashboards and reporting systems that provide clear insights for faster, data-driven decisions.
 
-### 💰 [Finance & Operations](https://github.com/mitchsanchez29/finance-operations)
+<br>
+
+[![Finance & Operations](https://img.shields.io/badge/Finance_%26_Operations-14b8a6?style=for-the-badge)](https://github.com/mitchsanchez29/finance-operations)
+
 Improve financial visibility through organized payment tracking, accounts receivable systems, and operational reporting.
 
 ---
@@ -51,15 +60,15 @@ Improve financial visibility through organized payment tracking, accounts receiv
 2. **Get a Response** — A reply within 24 hours (Philippines, GMT+8).
 3. **See the Scope** — Scope and timeline shared before any work starts.
 
-[Send The First Message →](mailto:sanchezmitch77@gmail.com)
+[![Send The First Message](https://img.shields.io/badge/Send_The_First_Message_→-14b8a6?style=for-the-badge)](mailto:sanchezmitch77@gmail.com)
 
 ---
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-14B8A6?style=flat&logo=vercel&logoColor=white)](https://michelle-systems-studio.lovable.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-00C47F?style=flat&logo=gmail&logoColor=white)](mailto:sanchezmitch77@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://michelle-systems-studio.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-14B8A6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanchezmitch77@gmail.com)
 
 ---
 
