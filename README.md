@@ -4,7 +4,7 @@
 
 6 years of freelance support work: administrative, reporting, and workflow automation.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=flat&logo=github&logoColor=white)](https://mitchsanchez29.github.io/automation-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-14B8A6?style=flat&logo=vercel&logoColor=white)](https://michelle-systems-studio.lovable.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-00C47F?style=flat&logo=gmail&logoColor=white)](mailto:sanchezmitch77@gmail.com)
 
@@ -57,7 +57,7 @@ Improve financial visibility through organized payment tracking, accounts receiv
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6366F1?style=flat&logo=github&logoColor=white)](https://mitchsanchez29.github.io/automation-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-14B8A6?style=flat&logo=vercel&logoColor=white)](https://michelle-systems-studio.lovable.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-00C47F?style=flat&logo=gmail&logoColor=white)](mailto:sanchezmitch77@gmail.com)
 
