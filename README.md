@@ -42,14 +42,15 @@ Improve financial visibility through organized payment tracking, accounts receiv
 
 ## Available For
 
-- Administrative and Operation support
+- Workflow automation (Google Workspace, Zapier, Apps Script)
+- API integration & automated reporting
 - Reporting & dashboard development
 - Finance & accounts receivable support
+- AI-assisted systems building (Lovable, Claude, ChatGPT)
+- Administrative support
 - Research & outreach
 - Inbox & document organization
-- Workflow automation (Google workspace, Zapier)
-- API integration & automated reporting
-
+  
 ---
 
 ## How It Works
