@@ -2,7 +2,7 @@
 
 ### Less scattered work. Clearer data. Smoother processes. Smarter support with automation and AI.
 
-6 years of freelance support work: administrative, reporting, and workflow automation.
+6+ years helping businesses reduce manual work, improve operational visibility, and build smarter workflows.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://msanchez29.lovable.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle29)
